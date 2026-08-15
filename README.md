@@ -1,4 +1,6 @@
-# Fantasy
+# Fantasy Football Advanced Statistics
+
+[![ci](https://github.com/cagedknight/fantasy-football-advanced-statistics/actions/workflows/ci.yml/badge.svg)](https://github.com/cagedknight/fantasy-football-advanced-statistics/actions/workflows/ci.yml)
 
 Ranks the free agents in *your* fantasy football league by advanced stats, scored against
 your league's actual rules rather than a generic consensus ranking.
