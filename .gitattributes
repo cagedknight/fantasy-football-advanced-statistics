@@ -1,0 +1,7 @@
+# Development happens on Windows, CI and containers run Linux. Normalize to LF
+# in the repo so shell scripts and Dockerfiles are not checked out with CRLF.
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.parquet binary

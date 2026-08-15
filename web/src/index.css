@@ -1,0 +1,46 @@
+:root {
+  color-scheme: light dark;
+  font-family: system-ui, -apple-system, "Segoe UI", sans-serif;
+  line-height: 1.6;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  padding: 3rem 1.5rem;
+}
+
+main {
+  width: 100%;
+  max-width: 40rem;
+}
+
+h1 {
+  margin-bottom: 0.25rem;
+}
+
+.tagline {
+  margin-top: 0;
+  opacity: 0.7;
+}
+
+.status {
+  margin-top: 2rem;
+  padding: 1rem 1.25rem;
+  border: 1px solid color-mix(in srgb, currentColor 20%, transparent);
+  border-radius: 8px;
+}
+
+.status h2 {
+  margin-top: 0;
+  font-size: 1rem;
+}
+
+.good {
+  color: #1d9e75;
+}
+
+.bad {
+  color: #d85a30;
+}
